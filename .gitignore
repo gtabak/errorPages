@@ -87,4 +87,6 @@ test_artifacts/
 /components/browser/storage-sync*
 /components/browser/tabstray*
 /components/browser/toolbar*
+/samples/*
+
 
